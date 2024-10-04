@@ -1,0 +1,450 @@
+<div id="cphBody_DivExport" class="textmode">
+                    Prices in Rs/Quintal<br />
+                    <span id="cphBody_Label1"></span><br />
+                    <span id="cphBody_Label3">Date Wise Market Prices Trend in Top Five States in terms all Arrivals - All Markets</span>
+                    <table cellspacing="0" cellpadding="3" rules="all" id="cphBody_DataGrid0_PriMetro" style="background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;width:100%;border-collapse:collapse;LEFT: 1px; TOP: -8px">
+	<tr style="color:White;background-color:#214C5B;font-weight:bold;width:150px;">
+		<td>Market</td><td>Variety</td><td>Grade</td><td>Selected date 11/09/2024</td><td>One week ago 04/09/2024</td><td>Fortnight ago 28/08/2024</td><td>One month ago 11/08/2024</td><td>One year ago 11/09/2023</td><td>% variation over prievious year</td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#214C5B;width:150px;">
+		<td align="Center" colspan="9" style="color:White;font-weight:bold;">Soyabean</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#EBEBEB;width:150px;">
+		<td align="Center" colspan="9" style="color:Black;font-weight:bold;">Gujarat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jamnagar</td><td>Local</td><td>FAQ</td><td>&nbsp;</td><td>4625</td><td>&nbsp;</td><td>&nbsp;</td><td>4490</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Palitana</td><td>Local</td><td>FAQ</td><td>&nbsp;</td><td>3860</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Malpur</td><td>Local</td><td>FAQ</td><td>4550</td><td>4550</td><td>4550</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Veraval</td><td>Other</td><td>FAQ</td><td>4400</td><td>&nbsp;</td><td>4150</td><td>&nbsp;</td><td>4635</td><td>-5.07</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jasdan</td><td>Other</td><td>FAQ</td><td>4200</td><td>4125</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bhesan</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>4000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kodinar</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>4450</td><td>&nbsp;</td><td>&nbsp;</td><td>4750</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Khedbrahma</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>4150</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jetpur(Dist.Rajkot)</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4225</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bhanvad</td><td>Soyabeen</td><td>FAQ</td><td>4000</td><td>4000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Gondal</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4255</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Junagadh</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4200</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dahod</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4625</td><td>4450</td><td>&nbsp;</td><td>5000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Amreli</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4185</td><td>&nbsp;</td><td>&nbsp;</td><td>4650</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bagasara</td><td>Yellow</td><td>FAQ</td><td>3605</td><td>3592</td><td>&nbsp;</td><td>&nbsp;</td><td>4522</td><td>-20.28</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dhoraji</td><td>Yellow</td><td>FAQ</td><td>4080</td><td>4205</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Himatnagar</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4625</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Visavadar</td><td>Black</td><td>FAQ</td><td>&nbsp;</td><td>4185</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dhari</td><td>Local</td><td>FAQ</td><td>4075</td><td>4115</td><td>&nbsp;</td><td>&nbsp;</td><td>4580</td><td>-11.03</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Zalod(Zalod)</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>3900</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#EBEBEB;width:150px;">
+		<td align="Center" colspan="9" style="color:Black;font-weight:bold;">Karnataka</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Shiggauv</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4470</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bidar</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4737</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dharwar</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4933</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bailahongal</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4332</td><td>4180</td><td>&nbsp;</td><td>4850</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Soundati</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4100</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Laxmeshwar</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>3827</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kalburgi</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4000</td><td>4000</td><td>&nbsp;</td><td>4400</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Hubli (Amaragol)</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4580</td><td>4110</td><td>&nbsp;</td><td>4880</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kalagategi</td><td>Soyabeen</td><td>FAQ</td><td>4208</td><td>4440</td><td>4200</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#EBEBEB;width:150px;">
+		<td align="Center" colspan="9" style="color:Black;font-weight:bold;">Madhya Pradesh</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Vidisha</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>3800</td><td>4300</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bina</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4300</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Gautampura</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>5000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Gautampura</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4075</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Manasa</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4640</td><td>4509</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kurawar</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4620</td><td>4420</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kurawar</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4580</td><td>4375</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nagda</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4040</td><td>4486</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nagda</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>2620</td><td>4499</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jhabua</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>3500</td><td>4300</td><td>4170</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Garhakota</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4570</td><td>3890</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nalkehda</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4551</td><td>4400</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nalkehda</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4580</td><td>4425</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Shamshabad</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4586</td><td>4390</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Banda</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4345</td><td>4290</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mungawali</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4310</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Khilchipur</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4465</td><td>4355</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Maksudangarh</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4570</td><td>4260</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Badarwas</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4525</td><td>4395</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Khachrod</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4690</td><td>4490</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Khachrod</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Anjad</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4390</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Anjad</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Shamgarh</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4552</td><td>4300</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Susner</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4535</td><td>4305</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Unhel</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4461</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sarangpur</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4580</td><td>4100</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sarangpur</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4320</td><td>4385</td><td>&nbsp;</td><td>4730</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Rahatgarh</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>3750</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Piplya</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4500</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Taal</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4749</td><td>4460</td><td>&nbsp;</td><td>5000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Taal</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4723</td><td>4371</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Harsood</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4500</td><td>4270</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Harsood</td><td>Yellow</td><td>FAQ</td><td>4025</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Haatpipliya</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4420</td><td>4386</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Gotegaon</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4291</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Badwaha</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4305</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Badod</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4476</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Badod</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4800</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Shyampur</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4204</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jobat</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4100</td><td>&nbsp;</td><td>4100</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Manawar</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4600</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Manawar</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4400</td><td>4200</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sailana</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4490</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Gadarwada</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4350</td><td>4251</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Udaipura</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4080</td><td>4050</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kannod</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4385</td><td>4300</td><td>&nbsp;</td><td>4528</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Shajapur</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4412</td><td>4390</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Shajapur</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4355</td><td>4399</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pachaur</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4590</td><td>4200</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pachaur</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4570</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Narsinghgarh</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4520</td><td>4300</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Gairatganj</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4383</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Aron</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4590</td><td>4315</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kolaras</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4525</td><td>4315</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Begamganj</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4475</td><td>4310</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pohari</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4460</td><td>4360</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pohari</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4540</td><td>&nbsp;</td><td>&nbsp;</td><td>4255</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sironj</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4500</td><td>4300</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sironj</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4415</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kareli</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4351</td><td>4266</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kareli</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4351</td><td>4266</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pandhurna</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4650</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pandhurna</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4200</td><td>4250</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Timarni</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4590</td><td>4411</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bhikangaon</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4100</td><td>4100</td><td>4251</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Banapura</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4300</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Banapura</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4011</td><td>4398</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sirali</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4470</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Patharia</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4480</td><td>4250</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Patharia</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4400</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Chaurai</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4095</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dindori</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4200</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Tarana</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4591</td><td>4400</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Tarana</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4450</td><td>4200</td><td>4000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Khategaon</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4451</td><td>4250</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Khategaon</td><td>Soybean-Organic</td><td>FAQ</td><td>&nbsp;</td><td>4546</td><td>4456</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Deori</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4280</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mahidpur</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4681</td><td>4495</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mahidpur</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4300</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sanawad</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4040</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ratlam</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4850</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ratlam</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4175</td><td>4100</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ratlam</td><td>Soybean-Organic</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4415</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>A lot</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4700</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>A lot</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>5100</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Agar</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4667</td><td>4400</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Khurai</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4500</td><td>4211</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Narsinghpur</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4430</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Narsinghpur</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4531</td><td>4201</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ashoknagar</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4400</td><td>4291</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ashoknagar</td><td>Soybean-Organic</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4100</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ashta</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4676</td><td>4200</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ashta</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4495</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pipariya</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>3983</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Shujalpur</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4600</td><td>4435</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jaora</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4600</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jaora</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4560</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jaora</td><td>Soybean-Organic</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4635</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dhamnod</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4465</td><td>3215</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dhamnod</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4555</td><td>4400</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mhow</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4570</td><td>4550</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kukshi</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4350</td><td>4300</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kukshi</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Alirajpur</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4111</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Petlawad</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4285</td><td>&nbsp;</td><td>4762</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Petlawad</td><td>Yellow</td><td>FAQ</td><td>4325</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dhar</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4630</td><td>4550</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dhar</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4245</td><td>4554</td><td>&nbsp;</td><td>4900</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Khargone</td><td>Soyabeen</td><td>FAQ</td><td>4210</td><td>4431</td><td>4371</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sehore</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4280</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sehore</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4640</td><td>4500</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ichhawar</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4451</td><td>4250</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Lateri</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4390</td><td>2400</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bijawar</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4200</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bijawar</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4210</td><td>4200</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mundi</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4150</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kurwai</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4465</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Garoth</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4300</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dewas</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4920</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dewas</td><td>Soyabeen</td><td>FAQ</td><td>4500</td><td>4600</td><td>4300</td><td>4100</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Maksi</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4600</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Maksi</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4500</td><td>4410</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Indore</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4655</td><td>4200</td><td>2920</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Indore</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4500</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Indore</td><td>Soybean-Organic</td><td>FAQ</td><td>4100</td><td>4665</td><td>4400</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Betul</td><td>Soybean-Organic</td><td>FAQ</td><td>&nbsp;</td><td>4480</td><td>4290</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Badnagar</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4720</td><td>4611</td><td>&nbsp;</td><td>5200</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Badnagar</td><td>Soybean-Organic</td><td>FAQ</td><td>&nbsp;</td><td>4614</td><td>4177</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Neemuch</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4300</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Neemuch</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4200</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Neemuch</td><td>Soybean-Organic</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4400</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ganjbasoda</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4450</td><td>4450</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ganjbasoda</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4460</td><td>4400</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ganjbasoda</td><td>Soybean-Organic</td><td>FAQ</td><td>&nbsp;</td><td>4500</td><td>4495</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bhopal</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4495</td><td>4270</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jabalpur</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4265</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Shivpuri</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4310</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Tikamgarh</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4388</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Damoh</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4505</td><td>4290</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Berachha</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4400</td><td>4200</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Berachha</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>5200</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sitmau</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4575</td><td>4481</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sitmau</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4551</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Daloda</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4500</td><td>4100</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Barad</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>3900</td><td>&nbsp;</td><td>4550</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jaisinagar</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4025</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jaisinagar</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>3990</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nasrullaganj</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4350</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Biaora</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4450</td><td>4350</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Satna</td><td>Yellow</td><td>FAQ</td><td>4503</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Khandwa</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4400</td><td>4300</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Chhindwara</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4331</td><td>4360</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Berasia</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4460</td><td>4440</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sagar</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4125</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Harda</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4151</td><td>4436</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sonkatch</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4640</td><td>3200</td><td>&nbsp;</td><td>4870</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kalapipal</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4581</td><td>4400</td><td>&nbsp;</td><td>4950</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ujjain</td><td>Soyabeen</td><td>FAQ</td><td>3200</td><td>4600</td><td>4491</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Itarsi</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4400</td><td>4381</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Guna</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4410</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mandsaur</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4725</td><td>4400</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Loharda</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4350</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Thandla</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4250</td><td>&nbsp;</td><td>4850</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Khirakiya</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4100</td><td>4260</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bamora</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4456</td><td>4296</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Niwadi</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4300</td><td>4200</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Karhi</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4400</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pandhana</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4355</td><td>4345</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jawar</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4640</td><td>4500</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Rajgarh</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4590</td><td>4480</td><td>&nbsp;</td><td>4700</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sanwer</td><td>Soyabeen</td><td>FAQ</td><td>&nbsp;</td><td>4331</td><td>4100</td><td>4201</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sanwer</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>4011</td><td>&nbsp;</td><td>4321</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Raisen</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4545</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Badnawar</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4650</td><td>4500</td><td>&nbsp;</td><td>4500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Momanbadodiya</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Khujner</td><td>Yellow</td><td>FAQ</td><td>&nbsp;</td><td>4210</td><td>4370</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#EBEBEB;width:150px;">
+		<td align="Center" colspan="9" style="color:Black;font-weight:bold;">Tamil Nadu</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sivagangai (Uzhavar Sandhai )</td><td>Local</td><td>Local</td><td>9000</td><td>9000</td><td>9000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Karaikudi(Uzhavar Sandhai )</td><td>Local</td><td>Local</td><td>&nbsp;</td><td>&nbsp;</td><td>8500</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Theni(Uzhavar Sandhai )</td><td>Local</td><td>Local</td><td>9000</td><td>&nbsp;</td><td>9000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Palanganatham(Uzhavar Sandhai )</td><td>Local</td><td>Local</td><td>9000</td><td>9000</td><td>9000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Anaiyur(Uzhavar Sandhai )</td><td>Local</td><td>Local</td><td>9000</td><td>9000</td><td>9000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Chokkikulam(Uzhavar Sandhai )</td><td>Local</td><td>Local</td><td>9000</td><td>9000</td><td>9000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bodinayakanur(Uzhavar Sandhai )</td><td>Local</td><td>Local</td><td>9000</td><td>&nbsp;</td><td>9000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Andipatti(Uzhavar Sandhai )</td><td>Local</td><td>Local</td><td>9000</td><td>&nbsp;</td><td>9000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr>
+</table>
+                        <br />
+                        *Report Generation: As per the data reported by APMCs
+</div>

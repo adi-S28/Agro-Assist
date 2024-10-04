@@ -1,0 +1,224 @@
+<div id="cphBody_DivExport" class="textmode">
+                    Prices in Rs/Quintal<br />
+                    <span id="cphBody_Label1"></span><br />
+                    <span id="cphBody_Label3">Date Wise Market Prices Trend in Top Five States in terms all Arrivals - All Markets</span>
+                    <table cellspacing="0" cellpadding="3" rules="all" id="cphBody_DataGrid0_PriMetro" style="background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;width:100%;border-collapse:collapse;LEFT: 1px; TOP: -8px">
+	<tr style="color:White;background-color:#214C5B;font-weight:bold;width:150px;">
+		<td>Market</td><td>Variety</td><td>Grade</td><td>Selected date 11/09/2024</td><td>One week ago 04/09/2024</td><td>Fortnight ago 28/08/2024</td><td>One month ago 11/08/2024</td><td>One year ago 11/09/2023</td><td>% variation over prievious year</td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#214C5B;width:150px;">
+		<td align="Center" colspan="9" style="color:White;font-weight:bold;">Groundnut</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#EBEBEB;width:150px;">
+		<td align="Center" colspan="9" style="color:Black;font-weight:bold;">Gujarat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Savarkundla</td><td>Big (With Shell)</td><td>FAQ</td><td>5603</td><td>5555</td><td>&nbsp;</td><td>&nbsp;</td><td>6470</td><td>-13.4</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Savarkundla</td><td>Bold</td><td>FAQ</td><td>5553</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Amreli</td><td>Big (With Shell)</td><td>FAQ</td><td>&nbsp;</td><td>5530</td><td>&nbsp;</td><td>&nbsp;</td><td>5950</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Amreli</td><td>Bold</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>5350</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Gondal</td><td>G20</td><td>FAQ</td><td>&nbsp;</td><td>5805</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Gondal</td><td>Bold Kernel</td><td>FAQ</td><td>&nbsp;</td><td>5500</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jasdan</td><td>G20</td><td>FAQ</td><td>5400</td><td>5500</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bhanvad</td><td>G20</td><td>FAQ</td><td>5000</td><td>5000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Halvad</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>4250</td><td>&nbsp;</td><td>&nbsp;</td><td>7250</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Halvad</td><td>Seed</td><td>FAQ</td><td>&nbsp;</td><td>5625</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Veraval</td><td>G20</td><td>FAQ</td><td>5850</td><td>5905</td><td>&nbsp;</td><td>&nbsp;</td><td>5800</td><td>0.86</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mahuva(Station Road)</td><td>G20</td><td>FAQ</td><td>&nbsp;</td><td>3960</td><td>&nbsp;</td><td>&nbsp;</td><td>5935</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mahuva(Station Road)</td><td>Local</td><td>FAQ</td><td>&nbsp;</td><td>5740</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mahuva(Station Road)</td><td>Bold</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6250</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Rajkot</td><td>G20</td><td>FAQ</td><td>5250</td><td>5750</td><td>&nbsp;</td><td>&nbsp;</td><td>7250</td><td>-27.59</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Rajkot</td><td>Bold</td><td>FAQ</td><td>5375</td><td>6105</td><td>&nbsp;</td><td>&nbsp;</td><td>6700</td><td>-19.78</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mangrol</td><td>G20</td><td>FAQ</td><td>6250</td><td>6590</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Taleja</td><td>G20</td><td>FAQ</td><td>&nbsp;</td><td>5280</td><td>5335</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Taleja</td><td>Bold</td><td>FAQ</td><td>&nbsp;</td><td>5175</td><td>&nbsp;</td><td>&nbsp;</td><td>6460</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dhoraji</td><td>G20</td><td>FAQ</td><td>&nbsp;</td><td>5355</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dhoraji</td><td>Local</td><td>FAQ</td><td>5205</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Palitana</td><td>G20</td><td>FAQ</td><td>&nbsp;</td><td>5310</td><td>&nbsp;</td><td>&nbsp;</td><td>6890</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kodinar</td><td>G20</td><td>FAQ</td><td>&nbsp;</td><td>5550</td><td>&nbsp;</td><td>&nbsp;</td><td>5900</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Junagadh</td><td>Bold</td><td>FAQ</td><td>&nbsp;</td><td>5250</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Porbandar</td><td>Bold</td><td>FAQ</td><td>&nbsp;</td><td>4875</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jetpur(Dist.Rajkot)</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>5505</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jetpur(Dist.Rajkot)</td><td>Bold</td><td>FAQ</td><td>&nbsp;</td><td>5300</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bhesan</td><td>Other</td><td>FAQ</td><td>4750</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jam Khambalia</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>5000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dhrol</td><td>Other</td><td>FAQ</td><td>5075</td><td>5850</td><td>&nbsp;</td><td>&nbsp;</td><td>5825</td><td>-12.88</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kalawad</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>5850</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bhavnagar</td><td>Other</td><td>FAQ</td><td>5525</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6745</td><td>-18.09</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jamnagar</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>6425</td><td>&nbsp;</td><td>&nbsp;</td><td>6025</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Visavadar</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>4990</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Himatnagar</td><td>JL-24</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6120</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bagasara</td><td>Balli/Habbu</td><td>FAQ</td><td>&nbsp;</td><td>4862</td><td>&nbsp;</td><td>&nbsp;</td><td>5660</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dhari</td><td>Bold</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6055</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#EBEBEB;width:150px;">
+		<td align="Center" colspan="9" style="color:Black;font-weight:bold;">Tamil Nadu</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Vellore</td><td>Big (With Shell)</td><td>Local</td><td>6000</td><td>&nbsp;</td><td>7000</td><td>7000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Vellore</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Thirupathur</td><td>Big (With Shell)</td><td>Local</td><td>7000</td><td>7000</td><td>7000</td><td>7000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Chethupattu</td><td>Balli/Habbu</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10404</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Vikkiravandi</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>2859</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kolathur</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6700</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Omalur</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7900</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Andimadom</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10624</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Cheyyar</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10578</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Avalurpet</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10313</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kallakurichi</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10594</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>RSPuram(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>6400</td><td>&nbsp;</td><td>6600</td><td>7200</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mettupalayam(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>8000</td><td>8000</td><td>8000</td><td>8000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Vandavasi</td><td>Other</td><td>Local</td><td>7373</td><td>&nbsp;</td><td>8088</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Thirukovilur</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10711</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ulundurpettai</td><td>Big (With Shell)</td><td>Local</td><td>7000</td><td>&nbsp;</td><td>7000</td><td>7000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ulundurpettai</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10588</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sevur</td><td>DMV-7</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7850</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Tindivanam</td><td>Big (With Shell)</td><td>Local</td><td>5000</td><td>5000</td><td>5000</td><td>5000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Tiruppur (North) (Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>6000</td><td>6000</td><td>&nbsp;</td><td>7000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ranipettai(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>6000</td><td>6000</td><td>6000</td><td>6000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Arcot(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Vaniyampadi(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>6000</td><td>6000</td><td>6000</td><td>6000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sankarapuram(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>6000</td><td>7000</td><td>7000</td><td>7000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jameenrayapettai(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>8000</td><td>8000</td><td>7000</td><td>7000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kallakurichi(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>7000</td><td>7000</td><td>7000</td><td>7000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pallavaram(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>8000</td><td>8000</td><td>7000</td><td>7000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Gudiyatham(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>6000</td><td>6000</td><td>6000</td><td>7000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kahithapattarai(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>6000</td><td>6000</td><td>6000</td><td>7000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Katpadi (Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>7000</td><td>7000</td><td>7000</td><td>7000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Chengam(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>4000</td><td>4000</td><td>8000</td><td>8000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Tamarainagar(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>7000</td><td>7000</td><td>7000</td><td>7000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Polur(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>4000</td><td>4000</td><td>4000</td><td>4000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Cheyyar(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>7000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Tiruvannamalai(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>7000</td><td>7000</td><td>7000</td><td>7000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jalagandapuram(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>6000</td><td>6000</td><td>6000</td><td>6000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Tiruthuraipoondi(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>6000</td><td>6000</td><td>6000</td><td>5000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mettur(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>6000</td><td>6000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Hasthampatti(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>6000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Elampillai(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>6000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Athur(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>6000</td><td>6000</td><td>6000</td><td>6000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Thathakapatti(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>6000</td><td>7000</td><td>7000</td><td>7000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pudukottai(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>6000</td><td>6000</td><td>6000</td><td>6000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ammapet(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6500</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mohanur(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>6000</td><td>4800</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Perambalur(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>8000</td><td>8000</td><td>8000</td><td>8000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Namakkal(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>5800</td><td>&nbsp;</td><td>5800</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Rasipuram(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>5000</td><td>5500</td><td>5500</td><td>5500</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nagapattinam(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>7000</td><td>7000</td><td>6500</td><td>6500</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sirkali(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>4000</td><td>4000</td><td>4000</td><td>4000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Anaiyur(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>7000</td><td>7000</td><td>7000</td><td>6000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Chokkikulam(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>&nbsp;</td><td>7000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Melur(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>7000</td><td>7000</td><td>7000</td><td>6000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Hosur(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>8000</td><td>8000</td><td>8000</td><td>8000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Krishnagiri(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>6000</td><td>6000</td><td>7000</td><td>7000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Perundurai(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>4600</td><td>4600</td><td>4600</td><td>4500</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sampath Nagar(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>5000</td><td>&nbsp;</td><td>&nbsp;</td><td>5000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sathiyamagalam(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>5000</td><td>&nbsp;</td><td>4000</td><td>4000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Periyar Nagar(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>&nbsp;</td><td>5000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>AJattihalli(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>6000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dindigul(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>8000</td><td>7000</td><td>8000</td><td>8000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Palani(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dharmapuri(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>6500</td><td>6600</td><td>6500</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pennagaram(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>7000</td><td>7000</td><td>7000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Vadavalli(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>6500</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Cuddalore(Uzhavar Sandhai )</td><td>Big (With Shell)</td><td>Local</td><td>8000</td><td>8000</td><td>8000</td><td>8000</td><td>&nbsp;</td><td>-</td>
+	</tr>
+</table>
+                        <br />
+                        *Report Generation: As per the data reported by APMCs
+</div>

@@ -1,0 +1,208 @@
+<div id="cphBody_DivExport" class="textmode">
+                    Prices in Rs/Quintal<br />
+                    <span id="cphBody_Label1"></span><br />
+                    <span id="cphBody_Label3">Date Wise Market Prices Trend in Top Five States in terms all Arrivals - All Markets</span>
+                    <table cellspacing="0" cellpadding="3" rules="all" id="cphBody_DataGrid0_PriMetro" style="background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;width:100%;border-collapse:collapse;LEFT: 1px; TOP: -8px">
+	<tr style="color:White;background-color:#214C5B;font-weight:bold;width:150px;">
+		<td>Market</td><td>Variety</td><td>Grade</td><td>Selected date 11/09/2024</td><td>One week ago 04/09/2024</td><td>Fortnight ago 28/08/2024</td><td>One month ago 11/08/2024</td><td>One year ago 11/09/2023</td><td>% variation over prievious year</td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#214C5B;width:150px;">
+		<td align="Center" colspan="9" style="color:White;font-weight:bold;">Black Gram (Urd Beans)(Whole)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#EBEBEB;width:150px;">
+		<td align="Center" colspan="9" style="color:Black;font-weight:bold;">Gujarat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Visavadar</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>8115</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kodinar</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>8900</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bagasara</td><td>Other</td><td>FAQ</td><td>8062</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dhoraji</td><td>Rajkot T-9</td><td>FAQ</td><td>&nbsp;</td><td>8480</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Rajkot</td><td>Desi</td><td>FAQ</td><td>8670</td><td>8900</td><td>&nbsp;</td><td>&nbsp;</td><td>9125</td><td>-4.99</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Veraval</td><td>Other</td><td>FAQ</td><td>9075</td><td>9655</td><td>8505</td><td>&nbsp;</td><td>9225</td><td>-1.63</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jasdan</td><td>Other</td><td>FAQ</td><td>7400</td><td>10000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Amreli</td><td>Hybrid</td><td>FAQ</td><td>&nbsp;</td><td>9475</td><td>&nbsp;</td><td>&nbsp;</td><td>9050</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jamnagar</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>8825</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Patan</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>8400</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kadi</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>9000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Porbandar</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>8100</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Taleja</td><td>Local</td><td>FAQ</td><td>&nbsp;</td><td>9175</td><td>&nbsp;</td><td>&nbsp;</td><td>7835</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dahod</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>7500</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Junagadh</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>8250</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Gondal</td><td>Desi</td><td>FAQ</td><td>&nbsp;</td><td>6955</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Siddhpur</td><td>Desi</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>8800</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#EBEBEB;width:150px;">
+		<td align="Center" colspan="9" style="color:Black;font-weight:bold;">Kerala</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Vadakkenchery</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>13500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Vadakkenchery</td><td>Black Gram Dal</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>14500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Palakkad</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>13100</td><td>&nbsp;</td><td>&nbsp;</td><td>11600</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Palakkad</td><td>Black Gram Dal</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>13100</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kottayam</td><td>Black Gram (Whole)</td><td>FAQ</td><td>13200</td><td>&nbsp;</td><td>13200</td><td>&nbsp;</td><td>11000</td><td>20</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Neeleswaram</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>13400</td><td>&nbsp;</td><td>&nbsp;</td><td>12300</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#EBEBEB;width:150px;">
+		<td align="Center" colspan="9" style="color:Black;font-weight:bold;">Maharashtra</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Rahuri(Vambori)</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>6987</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Shevgaon(Bodhegaon)</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>7200</td><td>&nbsp;</td><td>&nbsp;</td><td>8500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pune</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>10700</td><td>10500</td><td>&nbsp;</td><td>10100</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sangli</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>8500</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Barshi</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>8000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Om Chaitanya Multistate Agro Purpose CoOp Society </td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>7700</td><td>&nbsp;</td><td>&nbsp;</td><td>9300</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Gevrai</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>7500</td><td>&nbsp;</td><td>&nbsp;</td><td>7125</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mumbai</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>10300</td><td>10450</td><td>&nbsp;</td><td>10000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Malegaon</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>7050</td><td>&nbsp;</td><td>&nbsp;</td><td>7099</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Amarawati</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>6800</td><td>6825</td><td>&nbsp;</td><td>6975</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Khamgaon</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>7801</td><td>&nbsp;</td><td>&nbsp;</td><td>5100</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jalana</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>8061</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Latur</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>8000</td><td>8400</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Malkapur</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>9700</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ahmednagar</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>7500</td><td>&nbsp;</td><td>8150</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Akola</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>5005</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Chalisgaon</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>7000</td><td>7300</td><td>&nbsp;</td><td>9700</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pachora</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>6051</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Baramati</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>9150</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Beed</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>7580</td><td>8251</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Karanja</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>8100</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Akkalkot</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>8200</td><td>&nbsp;</td><td>&nbsp;</td><td>9400</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Paithan</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>6730</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Tuljapur</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>8000</td><td>8000</td><td>&nbsp;</td><td>9200</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Umarga</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>7725</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kalamb (Dharashiv)</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>7810</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dharashiv</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>7487</td><td>&nbsp;</td><td>&nbsp;</td><td>9040</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nilanga</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>7800</td><td>7500</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Aurad Shahajani</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>8550</td><td>8070</td><td>&nbsp;</td><td>9075</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Paranda</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>9300</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Barshi(Vairag)</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>7926</td><td>8300</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kurdwadi(Modnimb)</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>9000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ausa</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>7083</td><td>&nbsp;</td><td>8676</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dudhani</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>8000</td><td>8125</td><td>&nbsp;</td><td>9570</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Karmala</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>7500</td><td>8200</td><td>&nbsp;</td><td>9000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kurdwadi</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>7350</td><td>7751</td><td>&nbsp;</td><td>9501</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mangal Wedha</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>7600</td><td>&nbsp;</td><td>&nbsp;</td><td>7000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Shevgaon</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>7300</td><td>7000</td><td>&nbsp;</td><td>9200</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Karjat</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>7800</td><td>8200</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Amalner</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Karjat(Raigad)</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>9000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jamkhed</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>8650</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pathardi</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>7500</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kalyan</td><td>Mogan Medium</td><td>FAQ</td><td>9700</td><td>&nbsp;</td><td>9700</td><td>9850</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Solapur</td><td>Mogan Medium</td><td>FAQ</td><td>&nbsp;</td><td>8050</td><td>8310</td><td>&nbsp;</td><td>9210</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#EBEBEB;width:150px;">
+		<td align="Center" colspan="9" style="color:Black;font-weight:bold;">Uttar Pradesh</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Agra</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>9400</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bahraich</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>9175</td><td>9155</td><td>&nbsp;</td><td>8750</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ghaziabad</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>9100</td><td>9150</td><td>9200</td><td>9000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Gonda</td><td>Desi</td><td>FAQ</td><td>&nbsp;</td><td>9300</td><td>9200</td><td>9375</td><td>8750</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Gorakhpur</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>8450</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Hardoi</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>9000</td><td>8980</td><td>&nbsp;</td><td>8260</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Lalitpur</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>8500</td><td>8550</td><td>&nbsp;</td><td>8100</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Lucknow</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>8180</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jaunpur</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>8700</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mahoba</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6630</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Tundla</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>8000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bhinga</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>9170</td><td>9160</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mehrauni</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>6200</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Karvi</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>10100</td><td>&nbsp;</td><td>9000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Etah</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7660</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Raibareilly</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>8950</td><td>8375</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Azamgarh</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>9100</td><td>&nbsp;</td><td>8560</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Balrampur</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>8750</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Safdarganj</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>8950</td><td>&nbsp;</td><td>&nbsp;</td><td>8600</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Naanpara</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>8750</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Saharanpur</td><td>Black Gram (Whole)</td><td>FAQ</td><td>9080</td><td>9100</td><td>9080</td><td>9140</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Varanasi</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>9035</td><td>9085</td><td>&nbsp;</td><td>8600</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sultanpur</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>8700</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Meerut</td><td>Black Gram (Whole)</td><td>FAQ</td><td>&nbsp;</td><td>9050</td><td>9030</td><td>&nbsp;</td><td>8980</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kanpur(Grain)</td><td>Desi</td><td>FAQ</td><td>&nbsp;</td><td>9230</td><td>9200</td><td>&nbsp;</td><td>8000</td><td>-</td>
+	</tr>
+</table>
+                        <br />
+                        *Report Generation: As per the data reported by APMCs
+</div>

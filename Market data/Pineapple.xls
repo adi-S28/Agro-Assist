@@ -1,0 +1,182 @@
+<div id="cphBody_DivExport" class="textmode">
+                    Prices in Rs/Quintal<br />
+                    <span id="cphBody_Label1"></span><br />
+                    <span id="cphBody_Label3">Date Wise Market Prices Trend in Top Five States in terms all Arrivals - All Markets</span>
+                    <table cellspacing="0" cellpadding="3" rules="all" id="cphBody_DataGrid0_PriMetro" style="background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;width:100%;border-collapse:collapse;LEFT: 1px; TOP: -8px">
+	<tr style="color:White;background-color:#214C5B;font-weight:bold;width:150px;">
+		<td>Market</td><td>Variety</td><td>Grade</td><td>Selected date 11/09/2024</td><td>One week ago 04/09/2024</td><td>Fortnight ago 28/08/2024</td><td>One month ago 11/08/2024</td><td>One year ago 11/09/2023</td><td>% variation over prievious year</td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#214C5B;width:150px;">
+		<td align="Center" colspan="9" style="color:White;font-weight:bold;">Pineapple</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#EBEBEB;width:150px;">
+		<td align="Center" colspan="9" style="color:Black;font-weight:bold;">Himachal Pradesh</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kangra</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>4500</td><td>4200</td><td>&nbsp;</td><td>4500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Solan</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>5500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Palampur</td><td>Other</td><td>Medium</td><td>4800</td><td>4800</td><td>5150</td><td>&nbsp;</td><td>5250</td><td>-8.57</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Shimla</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>6000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kangra(Nagrota Bagwan)</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>4300</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kangra(Jassour)</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>5000</td><td>5000</td><td>&nbsp;</td><td>3500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kangra(Jaisinghpur)</td><td>Other</td><td>Medium</td><td>4950</td><td>4950</td><td>5350</td><td>&nbsp;</td><td>5350</td><td>-7.48</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Hamirpur(Nadaun)</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>5100</td><td>9500</td><td>&nbsp;</td><td>5250</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Hamirpur</td><td>Pine Apple</td><td>Medium</td><td>&nbsp;</td><td>5100</td><td>4700</td><td>&nbsp;</td><td>5250</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#EBEBEB;width:150px;">
+		<td align="Center" colspan="9" style="color:Black;font-weight:bold;">Jammu and Kashmir</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Narwal Jammu (F&V)</td><td>Pine Apple</td><td>Medium</td><td>6000</td><td>6000</td><td>6000</td><td>&nbsp;</td><td>5000</td><td>20</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ashahipora (Anantnagh)</td><td>Pine Apple</td><td>Large</td><td>7450</td><td>4750</td><td>6250</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Parimpore</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>5050</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Parimpore</td><td>Other</td><td>Large</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7300</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Akhnoor</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>4800</td><td>4800</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kathua</td><td>Pine Apple</td><td>Medium</td><td>4500</td><td>4750</td><td>4250</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#EBEBEB;width:150px;">
+		<td align="Center" colspan="9" style="color:Black;font-weight:bold;">Kerala</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Thrippunithura</td><td>Pine Apple</td><td>Medium</td><td>8200</td><td>7000</td><td>7200</td><td>&nbsp;</td><td>7200</td><td>13.89</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Angamaly</td><td>Pine Apple</td><td>Medium</td><td>7000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7000</td><td>0</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Parassala</td><td>Pine Apple</td><td>Medium</td><td>6800</td><td>&nbsp;</td><td>4500</td><td>4800</td><td>5000</td><td>36</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kattappana</td><td>Other</td><td>Medium</td><td>6800</td><td>5400</td><td>&nbsp;</td><td>3000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kattappana</td><td>Other</td><td>Large</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kothamangalam</td><td>Other</td><td>Large</td><td>&nbsp;</td><td>6000</td><td>6500</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mukkom</td><td>Other</td><td>Large</td><td>8000</td><td>7000</td><td>7200</td><td>&nbsp;</td><td>2800</td><td>185.71</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Keezhampara VFPCK</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>3500</td><td>3500</td><td>4300</td><td>3800</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Keezhampara VFPCK</td><td>Other</td><td>Large</td><td>&nbsp;</td><td>4800</td><td>5000</td><td>5200</td><td>4400</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Keezhampara VFPCK</td><td>Other</td><td>Small</td><td>&nbsp;</td><td>2500</td><td>2500</td><td>3000</td><td>2800</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Broadway market</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>6200</td><td>6200</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>North Paravur</td><td>Other</td><td>Medium</td><td>6500</td><td>7000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Anchal VFPCK</td><td>Other</td><td>Large</td><td>&nbsp;</td><td>5800</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Koovapadi VFPCK</td><td>Other</td><td>Large</td><td>&nbsp;</td><td>&nbsp;</td><td>5800</td><td>&nbsp;</td><td>4500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mazhuvannur VFPCK</td><td>Pine Apple</td><td>Large</td><td>&nbsp;</td><td>3600</td><td>4000</td><td>4900</td><td>3200</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Vengola  VFPCK</td><td>Pine Apple</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>3000</td><td>3500</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Aluva</td><td>Pine Apple</td><td>Medium</td><td>&nbsp;</td><td>6300</td><td>6300</td><td>&nbsp;</td><td>6300</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kottayam</td><td>Pine Apple</td><td>Medium</td><td>6200</td><td>&nbsp;</td><td>5800</td><td>&nbsp;</td><td>4800</td><td>29.17</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Manjeri</td><td>Other</td><td>Large</td><td>7050</td><td>&nbsp;</td><td>5550</td><td>&nbsp;</td><td>5150</td><td>36.89</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Moovattupuzha</td><td>Other</td><td>Large</td><td>4700</td><td>3900</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Munnar</td><td>Other</td><td>Medium</td><td>6000</td><td>&nbsp;</td><td>&nbsp;</td><td>4500</td><td>4000</td><td>50</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kottakkal</td><td>Other</td><td>Large</td><td>5700</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Koduvayoor</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>6700</td><td>6700</td><td>6200</td><td>6400</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Chathanoor</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>6000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ranniangadi</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>5600</td><td>5000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Athirampuzha</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>3900</td><td>4500</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Chala</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7000</td><td>6200</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pothencode</td><td>Other</td><td>Large</td><td>39040</td><td>42040</td><td>39040</td><td>&nbsp;</td><td>29280</td><td>33.33</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Anchal</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>5300</td><td>5800</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kollengode</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>4200</td><td>&nbsp;</td><td>5200</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kollengode</td><td>Other</td><td>Large</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4800</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Palakkad</td><td>Pine Apple</td><td>Medium</td><td>&nbsp;</td><td>7100</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Palakkad</td><td>Pine Apple</td><td>Large</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7300</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Thalayolaparambu</td><td>Pine Apple</td><td>Medium</td><td>&nbsp;</td><td>6000</td><td>6300</td><td>&nbsp;</td><td>6000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Adimali</td><td>Pine Apple</td><td>Large</td><td>&nbsp;</td><td>8000</td><td>&nbsp;</td><td>&nbsp;</td><td>7000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Perumbavoor</td><td>Pine Apple</td><td>Medium</td><td>5500</td><td>5500</td><td>5000</td><td>&nbsp;</td><td>4500</td><td>22.22</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Thrissur</td><td>Pine Apple</td><td>Medium</td><td>6000</td><td>6500</td><td>&nbsp;</td><td>6200</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Thrissur</td><td>Pine Apple</td><td>Large</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#EBEBEB;width:150px;">
+		<td align="Center" colspan="9" style="color:Black;font-weight:bold;">Rajasthan</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Alwar (F&V)</td><td>Other</td><td>Large</td><td>&nbsp;</td><td>6500</td><td>6000</td><td>5000</td><td>4100</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kota (F&V)</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>4250</td><td>&nbsp;</td><td>4250</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Udaipur (F&V)</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>3000</td><td>&nbsp;</td><td>3000</td><td>2750</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ajmer(F&V)</td><td>Other</td><td>Large</td><td>&nbsp;</td><td>6500</td><td>5500</td><td>6000</td><td>3000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bikaner (F&V)</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>3900</td><td>&nbsp;</td><td>3400</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sriganganagar (F&V)</td><td>Other</td><td>Medium</td><td>5500</td><td>5000</td><td>6000</td><td>&nbsp;</td><td>5500</td><td>0</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jaipur (F&V)</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>4500</td><td>4500</td><td>&nbsp;</td><td>4750</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jodhpur (F&V)</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>1500</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#EBEBEB;width:150px;">
+		<td align="Center" colspan="9" style="color:Black;font-weight:bold;">Tamil Nadu</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Tiruvarur(Uzhavar Sandhai )</td><td>Pine Apple</td><td>Local</td><td>8000</td><td>8000</td><td>8000</td><td>8000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Tiruvannamalai(Uzhavar Sandhai )</td><td>Pine Apple</td><td>Local</td><td>3500</td><td>3000</td><td>3500</td><td>4000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kahithapattarai(Uzhavar Sandhai )</td><td>Pine Apple</td><td>Local</td><td>4000</td><td>&nbsp;</td><td>4000</td><td>9000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mannargudi I(Uzhavar Sandhai )</td><td>Pine Apple</td><td>Local</td><td>8000</td><td>8000</td><td>8000</td><td>8000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Theni(Uzhavar Sandhai )</td><td>Pine Apple</td><td>Local</td><td>7000</td><td>7000</td><td>7000</td><td>8000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Palayamkottai(Uzhavar Sandhai )</td><td>Pine Apple</td><td>Local</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>5000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Melapalayam(Uzhavar Sandhai )</td><td>Pine Apple</td><td>Local</td><td>&nbsp;</td><td>8000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Udhagamandalam(Uzhavar Sandhai )</td><td>Pine Apple</td><td>Local</td><td>6000</td><td>6000</td><td>6000</td><td>6000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sooramangalam(Uzhavar Sandhai )</td><td>Pine Apple</td><td>Local</td><td>7000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Athur(Uzhavar Sandhai )</td><td>Pine Apple</td><td>Local</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>3000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Hasthampatti(Uzhavar Sandhai )</td><td>Pine Apple</td><td>Local</td><td>5000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Rasipuram(Uzhavar Sandhai )</td><td>Pine Apple</td><td>Local</td><td>7000</td><td>7000</td><td>7000</td><td>7000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Anna nagar(Uzhavar Sandhai )</td><td>Pine Apple</td><td>Local</td><td>&nbsp;</td><td>&nbsp;</td><td>8000</td><td>8000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Namakkal(Uzhavar Sandhai )</td><td>Pine Apple</td><td>Local</td><td>5000</td><td>5000</td><td>5000</td><td>4000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>RSPuram(Uzhavar Sandhai )</td><td>Pine Apple</td><td>Local</td><td>7000</td><td>7000</td><td>7500</td><td>4500</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Hosur(Uzhavar Sandhai )</td><td>Pine Apple</td><td>Local</td><td>10000</td><td>10000</td><td>10000</td><td>10000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Vadaseri</td><td>Pine Apple</td><td>Local</td><td>5000</td><td>5000</td><td>5000</td><td>5000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Vellore</td><td>Pine Apple</td><td>Local</td><td>5000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr>
+</table>
+                        <br />
+                        *Report Generation: As per the data reported by APMCs
+</div>

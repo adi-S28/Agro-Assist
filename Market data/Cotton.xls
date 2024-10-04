@@ -1,0 +1,142 @@
+<div id="cphBody_DivExport" class="textmode">
+                    Prices in Rs/Quintal<br />
+                    <span id="cphBody_Label1"></span><br />
+                    <span id="cphBody_Label3">Date Wise Market Prices Trend in Top Five States in terms all Arrivals - All Markets</span>
+                    <table cellspacing="0" cellpadding="3" rules="all" id="cphBody_DataGrid0_PriMetro" style="background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;width:100%;border-collapse:collapse;LEFT: 1px; TOP: -8px">
+	<tr style="color:White;background-color:#214C5B;font-weight:bold;width:150px;">
+		<td>Market</td><td>Variety</td><td>Grade</td><td>Selected date 11/09/2024</td><td>One week ago 04/09/2024</td><td>Fortnight ago 28/08/2024</td><td>One month ago 11/08/2024</td><td>One year ago 11/09/2023</td><td>% variation over prievious year</td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#214C5B;width:150px;">
+		<td align="Center" colspan="9" style="color:White;font-weight:bold;">Cotton</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#EBEBEB;width:150px;">
+		<td align="Center" colspan="9" style="color:Black;font-weight:bold;">Andhra Pradesh</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Adoni</td><td>Bunny</td><td>FAQ</td><td>&nbsp;</td><td>7559</td><td>7480</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#EBEBEB;width:150px;">
+		<td align="Center" colspan="9" style="color:Black;font-weight:bold;">Gujarat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Thara(Shihori)</td><td>RCH-2</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6930</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Botad(Haddad)</td><td>Shanker 6 (B) 30mm FIne</td><td>FAQ</td><td>&nbsp;</td><td>7850</td><td>7005</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Modasar        </td><td>Shanker 6 (B) 30mm FIne</td><td>FAQ</td><td>6925</td><td>&nbsp;</td><td>6850</td><td>6750</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Gondal</td><td>H.B (Unginned)</td><td>FAQ</td><td>&nbsp;</td><td>8105</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jetpur(Dist.Rajkot)</td><td>Cotton (Unginned)</td><td>FAQ</td><td>&nbsp;</td><td>7900</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dasada Patadi</td><td>Shanker 4 31mm FIne</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7627.5</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Chotila</td><td>Shanker 6 (B) 30mm FIne</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dhari</td><td>Shanker 6 (B) 30mm FIne</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7125</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dhari</td><td>Local</td><td>FAQ</td><td>6322</td><td>6095</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mahuva(Station Road)</td><td>Shanker 6 (B) 30mm FIne</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>5570</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mahuva(Station Road)</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>6750</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jasdan</td><td>Shanker 6 (B) 30mm FIne</td><td>FAQ</td><td>8200</td><td>8250</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nizar(Kukarmuda)</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>7465</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Halvad</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7125</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dhrol</td><td>Other</td><td>FAQ</td><td>6750</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6435</td><td>4.9</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nizar(Pumkitalov)</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>7525</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jambusar(Kaavi)</td><td>Other</td><td>FAQ</td><td>5800</td><td>5800</td><td>6300</td><td>&nbsp;</td><td>5800</td><td>0</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jambusar</td><td>Other</td><td>FAQ</td><td>5600</td><td>5600</td><td>6200</td><td>&nbsp;</td><td>6000</td><td>-6.67</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nizar</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>7625</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bagasara</td><td>Other</td><td>FAQ</td><td>6505</td><td>6050</td><td>&nbsp;</td><td>&nbsp;</td><td>6750</td><td>-3.63</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Babra</td><td>Other</td><td>FAQ</td><td>7830</td><td>7825</td><td>&nbsp;</td><td>&nbsp;</td><td>7760</td><td>0.9</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kalawad</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>6500</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Anjar</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7602</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jamnagar</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>7350</td><td>&nbsp;</td><td>&nbsp;</td><td>6950</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bhesan</td><td>Other</td><td>FAQ</td><td>8000</td><td>7750</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dhragradhra</td><td>RCH-2</td><td>FAQ</td><td>6025</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dhragradhra</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6805</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Rajkot</td><td>Narma BT Cotton</td><td>FAQ</td><td>8000</td><td>8150</td><td>&nbsp;</td><td>&nbsp;</td><td>7700</td><td>3.9</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Amreli</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>7760</td><td>&nbsp;</td><td>&nbsp;</td><td>7750</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bhavnagar</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7475</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Savarkundla</td><td>Narma BT Cotton</td><td>FAQ</td><td>7625</td><td>6983</td><td>&nbsp;</td><td>&nbsp;</td><td>7228</td><td>5.49</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Rajula</td><td>Local</td><td>FAQ</td><td>&nbsp;</td><td>7380</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Morbi</td><td>Local</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7190</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kalediya</td><td>Shanker 6 (B) 30mm FIne</td><td>FAQ</td><td>6925</td><td>&nbsp;</td><td>6875</td><td>6800</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Hadad    </td><td>Shanker 6 (B) 30mm FIne</td><td>FAQ</td><td>6911</td><td>&nbsp;</td><td>6850</td><td>6800</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Taleja</td><td>Shanker 6 (B) 30mm FIne</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6515</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bodeliu</td><td>Shanker 6 (B) 30mm FIne</td><td>FAQ</td><td>6950</td><td>6950</td><td>6900</td><td>6800</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#EBEBEB;width:150px;">
+		<td align="Center" colspan="9" style="color:Black;font-weight:bold;">Telangana</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Thorrur</td><td>170-CO2 (Unginned)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7200</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Chityal</td><td>RCH-2</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6080</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Chityal</td><td>Bramha</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6080</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Narayankhed</td><td>RCH-2</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sircilla</td><td>RCH-2</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6380</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jainoor</td><td>Cotton (Unginned)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6800</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kataram</td><td>Cotton (Unginned)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kodakandal</td><td>Cotton (Unginned)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jammikunta</td><td>Cotton (Unginned)</td><td>FAQ</td><td>&nbsp;</td><td>7550</td><td>7500</td><td>7020</td><td>7250</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Khammam</td><td>Cotton (Unginned)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>7125</td><td>&nbsp;</td><td>7300</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Adilabad</td><td>Cotton (Unginned)</td><td>FAQ</td><td>6700</td><td>6900</td><td>6850</td><td>6900</td><td>6800</td><td>-1.47</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Karimnagar</td><td>Cotton (Unginned)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6521</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bichkunda</td><td>170-C2  (Ginned)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6080</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Narsampet(Nekonda)</td><td>Bramha</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6700</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ichoda</td><td>Bramha</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7400</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nirmal</td><td>Bramha</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7400</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kuber</td><td>Cotton (Unginned)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Peddapalli</td><td>Cotton (Unginned)</td><td>FAQ</td><td>7020</td><td>7020</td><td>&nbsp;</td><td>7020</td><td>6380</td><td>10.03</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sarangapur</td><td>Cotton (Unginned)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>8000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Warangal</td><td>Cotton (Unginned)</td><td>FAQ</td><td>&nbsp;</td><td>7000</td><td>&nbsp;</td><td>&nbsp;</td><td>6800</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Enkoor</td><td>Cotton (Unginned)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6800</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Halia</td><td>Cotton (Unginned)</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7020</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Madnoor</td><td>Bunny</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7800</td><td>-</td>
+	</tr>
+</table>
+                        <br />
+                        *Report Generation: As per the data reported by APMCs
+</div>

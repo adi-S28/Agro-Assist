@@ -1,0 +1,622 @@
+<div id="cphBody_DivExport" class="textmode">
+                    Prices in Rs/Quintal<br />
+                    <span id="cphBody_Label1"></span><br />
+                    <span id="cphBody_Label3">Date Wise Market Prices Trend in Top Five States in terms all Arrivals - All Markets</span>
+                    <table cellspacing="0" cellpadding="3" rules="all" id="cphBody_DataGrid0_PriMetro" style="background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;width:100%;border-collapse:collapse;LEFT: 1px; TOP: -8px">
+	<tr style="color:White;background-color:#214C5B;font-weight:bold;width:150px;">
+		<td>Market</td><td>Variety</td><td>Grade</td><td>Selected date 11/09/2024</td><td>One week ago 04/09/2024</td><td>Fortnight ago 28/08/2024</td><td>One month ago 11/08/2024</td><td>One year ago 11/09/2023</td><td>% variation over prievious year</td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#214C5B;width:150px;">
+		<td align="Center" colspan="9" style="color:White;font-weight:bold;">Apple</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#EBEBEB;width:150px;">
+		<td align="Center" colspan="9" style="color:Black;font-weight:bold;">Jammu and Kashmir</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nowpora</td><td>American</td><td>Large</td><td>&nbsp;</td><td>7142</td><td>7857</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nowpora</td><td>Other</td><td>Large</td><td>&nbsp;</td><td>&nbsp;</td><td>6500</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nowpora</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>6500</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nowpora</td><td>Delicious</td><td>Large</td><td>&nbsp;</td><td>4687</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nowpora</td><td>Rizakwadi</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>2166</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Parimpore</td><td>American</td><td>Large</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6550</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Parimpore</td><td>Other</td><td>Large</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>5000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Parimpore</td><td>Delicious</td><td>Large</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>5450</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Shopian</td><td>Other</td><td>Large</td><td>&nbsp;</td><td>&nbsp;</td><td>160000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Shopian</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>120000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Shopian</td><td>Kullu Royal Delicious</td><td>Large</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6875</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Shopian</td><td>Kullu Royal Delicious</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>5000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Akhnoor</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>5600</td><td>6000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Narwal Jammu (F&V)</td><td>Other</td><td>Large</td><td>6500</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Narwal Jammu (F&V)</td><td>Other</td><td>Medium</td><td>11000</td><td>7500</td><td>2750</td><td>&nbsp;</td><td>10500</td><td>4.76</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Narwal Jammu (F&V)</td><td>Delicious</td><td>Large</td><td>8500</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Narwal Jammu (F&V)</td><td>Delicious</td><td>Medium</td><td>2900</td><td>9500</td><td>9000</td><td>&nbsp;</td><td>5500</td><td>-47.27</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Narwal Jammu (F&V)</td><td>Rizakwadi</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>3000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ashahipora (Anantnagh)</td><td>Other</td><td>Large</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>16500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ashahipora (Anantnagh)</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6900</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ashahipora (Anantnagh)</td><td>Kullu Royal Delicious</td><td>Large</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>9500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Batote</td><td>Other</td><td>Medium</td><td>7000</td><td>7000</td><td>6500</td><td>&nbsp;</td><td>5000</td><td>40</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kathua</td><td>Other</td><td>Medium</td><td>5500</td><td>7000</td><td>6000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kathua</td><td>Delicious</td><td>Medium</td><td>8500</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kulgam</td><td>Other</td><td>Large</td><td>&nbsp;</td><td>&nbsp;</td><td>2647.06</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kulgam</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>1294.12</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ganderbal</td><td>American</td><td>Large</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>5937</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ganderbal</td><td>American</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4062</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ganderbal</td><td>Apple</td><td>Large</td><td>&nbsp;</td><td>5000</td><td>12000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ganderbal</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>6500</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ganderbal</td><td>Delicious</td><td>Large</td><td>&nbsp;</td><td>6875</td><td>&nbsp;</td><td>&nbsp;</td><td>6562</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ganderbal</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4687</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Rajouri (F&V)</td><td>Apple</td><td>Medium</td><td>7100</td><td>7100</td><td>2900</td><td>&nbsp;</td><td>5500</td><td>29.09</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pulwama (F&V)</td><td>Apple</td><td>Large</td><td>&nbsp;</td><td>9000</td><td>11000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pulwama (F&V)</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>8000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pulwama (F&V)</td><td>Delicious</td><td>Large</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>5625</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pulwama (F&V)</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>3750</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Udhampur</td><td>Delicious</td><td>Medium</td><td>10000</td><td>10000</td><td>12000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#EBEBEB;width:150px;">
+		<td align="Center" colspan="9" style="color:Black;font-weight:bold;">Maharashtra</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Amrawati(Frui & Veg. Market)</td><td>Simla</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Amrawati(Frui & Veg. Market)</td><td>Simla</td><td>Local</td><td>&nbsp;</td><td>10500</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jalgaon</td><td>Simla</td><td>Local</td><td>&nbsp;</td><td>8500</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nagpur</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>12500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nagpur</td><td>Other</td><td>Local</td><td>&nbsp;</td><td>12500</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nagpur</td><td>Simla</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>8250</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kalyan</td><td>Simla</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>11000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mumbai- Fruit Market</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>11000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mumbai- Fruit Market</td><td>Other</td><td>Local</td><td>&nbsp;</td><td>11500</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sangli(Phale, Bhajipura Market)</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sangli(Phale, Bhajipura Market)</td><td>Other</td><td>Local</td><td>&nbsp;</td><td>14500</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Chandrapur(Ganjwad)</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pune(Moshi)</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>11000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Chattrapati Sambhajinagar</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>9000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Chattrapati Sambhajinagar</td><td>Other</td><td>Local</td><td>&nbsp;</td><td>9750</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nasik</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>12000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nasik</td><td>Other</td><td>Local</td><td>&nbsp;</td><td>10000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pune</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pune</td><td>Other</td><td>Local</td><td>9500</td><td>9000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Solapur</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>11000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Solapur</td><td>Other</td><td>Local</td><td>&nbsp;</td><td>10000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kolhapur</td><td>Other</td><td>FAQ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>11000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kolhapur</td><td>Other</td><td>Local</td><td>&nbsp;</td><td>8000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#EBEBEB;width:150px;">
+		<td align="Center" colspan="9" style="color:Black;font-weight:bold;">Punjab</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nabha</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>3700</td><td>3200</td><td>&nbsp;</td><td>4400</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Fazilka</td><td>Other</td><td>Medium</td><td>9000</td><td>9000</td><td>9000</td><td>&nbsp;</td><td>18000</td><td>-50</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Khanna</td><td>Other</td><td>Medium</td><td>7000</td><td>6000</td><td>7000</td><td>&nbsp;</td><td>6000</td><td>16.67</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jagraon</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>5800</td><td>&nbsp;</td><td>&nbsp;</td><td>7000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bhawanigarh</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>10000</td><td>7500</td><td>&nbsp;</td><td>3500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Patran</td><td>American</td><td>Medium</td><td>&nbsp;</td><td>5220</td><td>5700</td><td>&nbsp;</td><td>12800</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Patran</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>5700</td><td>&nbsp;</td><td>5860</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Barnala</td><td>American</td><td>Large</td><td>&nbsp;</td><td>&nbsp;</td><td>6000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jalalabad</td><td>Other</td><td>Large</td><td>8700</td><td>9200</td><td>8600</td><td>&nbsp;</td><td>13000</td><td>-33.08</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Malerkotla</td><td>Other</td><td>Large</td><td>4000</td><td>&nbsp;</td><td>4500</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sunam</td><td>Other</td><td>Large</td><td>5000</td><td>7000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sirhind</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>5000</td><td>6000</td><td>&nbsp;</td><td>4000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dhuri</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>6000</td><td>6100</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ludhiana</td><td>Other</td><td>Medium</td><td>3500</td><td>3500</td><td>3500</td><td>&nbsp;</td><td>3000</td><td>16.67</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Garh Shankar</td><td>Other</td><td>Large</td><td>&nbsp;</td><td>&nbsp;</td><td>7000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Garh Shankar</td><td>Other</td><td>Medium</td><td>6500</td><td>5000</td><td>&nbsp;</td><td>&nbsp;</td><td>3500</td><td>85.71</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Tanda Urmur</td><td>Other</td><td>Medium</td><td>6500</td><td>7000</td><td>10000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Firozepur City</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>8500</td><td>7000</td><td>&nbsp;</td><td>6500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Banga</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>5453</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Banga</td><td>Apple</td><td>Large</td><td>&nbsp;</td><td>5660</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Banga</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>7410</td><td>8660</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Rajpura</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>7000</td><td>6000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bhagta Bhai Ka</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bathinda</td><td>Other</td><td>Large</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>12500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Patti</td><td>Other</td><td>Medium</td><td>3500</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6500</td><td>-46.15</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jalandhar City(Jalandhar)</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>4800</td><td>6500</td><td>&nbsp;</td><td>5800</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Phagwara</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>6800</td><td>6676</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Budalada</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>9000</td><td>10000</td><td>9000</td><td>7500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mukerian(Talwara)</td><td>Other</td><td>Large</td><td>&nbsp;</td><td>4000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mukerian(Talwara)</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>7000</td><td>8500</td><td>&nbsp;</td><td>5000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mukerian(Talwara)</td><td>Other</td><td>Small</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>2400</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Garh Shankar(Mahalpur)</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>9000</td><td>9000</td><td>&nbsp;</td><td>4500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Rampuraphul(Nabha Mandi)</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>7500</td><td>5000</td><td>5500</td><td>6000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Banur</td><td>Other</td><td>Large</td><td>&nbsp;</td><td>4000</td><td>4000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Lehra Gaga</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Chamkaur Sahib</td><td>Apple</td><td>Medium</td><td>6500</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kharar</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>6000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Malout</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>5200</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Patiala</td><td>Apple</td><td>Medium</td><td>7000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ropar</td><td>Apple</td><td>Medium</td><td>7500</td><td>6500</td><td>&nbsp;</td><td>&nbsp;</td><td>12000</td><td>-37.5</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Abohar</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>8580</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Baghapurana</td><td>Apple</td><td>Large</td><td>&nbsp;</td><td>7000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Baghapurana</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>3000</td><td>&nbsp;</td><td>4000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Moga</td><td>Apple</td><td>Medium</td><td>8000</td><td>8000</td><td>10000</td><td>&nbsp;</td><td>5400</td><td>48.15</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Faridkot</td><td>Apple</td><td>Large</td><td>&nbsp;</td><td>7000</td><td>6000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Gurdaspur</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>8000</td><td>7500</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mukerian</td><td>Apple</td><td>Medium</td><td>9500</td><td>10500</td><td>11000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Maur</td><td>Apple</td><td>Medium</td><td>4900</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7500</td><td>-34.67</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dinanagar</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>7000</td><td>8000</td><td>&nbsp;</td><td>5000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Raman</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>5070</td><td>&nbsp;</td><td>&nbsp;</td><td>4800</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bassi Pathana</td><td>Apple</td><td>Medium</td><td>6500</td><td>6500</td><td>5500</td><td>&nbsp;</td><td>7000</td><td>-7.14</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mansa</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>9000</td><td>9000</td><td>5500</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Morinda</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>5500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nawan Shahar(Subzi Mandi)</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>5800</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Amritsar(Amritsar Mewa Mandi)</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>4500</td><td>4100</td><td>&nbsp;</td><td>3500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sangrur</td><td>Apple</td><td>Large</td><td>&nbsp;</td><td>8000</td><td>8000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dasuya</td><td>Kasmir/Shimla - II</td><td>Large</td><td>&nbsp;</td><td>8000</td><td>8500</td><td>&nbsp;</td><td>6250</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dasuya</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>3000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dasuya</td><td>Kasmir/Shimla - II</td><td>Small</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Samana</td><td>Simla</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Samana</td><td>Simla</td><td>Small</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>2500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Muktsar</td><td>Kullu Royal Delicious</td><td>Medium</td><td>&nbsp;</td><td>8000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Khanauri</td><td>American</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>5000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Talwandi Sabo</td><td>American</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Zira</td><td>American</td><td>Large</td><td>&nbsp;</td><td>6400</td><td>6500</td><td>&nbsp;</td><td>4000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bariwala</td><td>American</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>6000</td><td>&nbsp;</td><td>3500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>GarhShankar (Kotfatuhi)</td><td>American</td><td>Medium</td><td>4500</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#EBEBEB;width:150px;">
+		<td align="Center" colspan="9" style="color:Black;font-weight:bold;">Rajasthan</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ajmer(F&V)</td><td>Other</td><td>Large</td><td>&nbsp;</td><td>6500</td><td>6300</td><td>7000</td><td>5800</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sriganganagar (F&V)</td><td>Apple</td><td>Medium</td><td>6500</td><td>7500</td><td>13000</td><td>&nbsp;</td><td>4200</td><td>54.76</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Alwar (F&V)</td><td>Other</td><td>Large</td><td>&nbsp;</td><td>8500</td><td>9000</td><td>14000</td><td>8100</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kota (F&V)</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>8500</td><td>9000</td><td>9000</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bikaner (F&V)</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>8900</td><td>7900</td><td>&nbsp;</td><td>3900</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Udaipur (F&V)</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>9000</td><td>8000</td><td>9000</td><td>5000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Chittorgarh</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>7500</td><td>7000</td><td>9000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jaipur (F&V)</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>9500</td><td>8500</td><td>&nbsp;</td><td>12000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jodhpur (F&V)</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>7000</td><td>&nbsp;</td><td>8000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;background-color:#EBEBEB;width:150px;">
+		<td align="Center" colspan="9" style="color:Black;font-weight:bold;">Uttar Pradesh</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sandi</td><td>American</td><td>Medium</td><td>&nbsp;</td><td>8990</td><td>9050</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sandi</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7960</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bahedi</td><td>Other</td><td>Medium</td><td>4650</td><td>4680</td><td>&nbsp;</td><td>4670</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Shahaswan</td><td>Other</td><td>Medium</td><td>&nbsp;</td><td>7000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Shahaswan</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ujhani</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>8900</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jayas</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7560</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jayas</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8000</td><td>8450</td><td>8450</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mohamadabad</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>8500</td><td>9200</td><td>9100</td><td>6900</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Varipaal</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>3500</td><td>6500</td><td>&nbsp;</td><td>3200</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Choubepur</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>8150</td><td>8700</td><td>&nbsp;</td><td>7200</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Tundla</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>8400</td><td>9250</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Tundla</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>8800</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kiratpur</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4050</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jasvantnagar</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>8220</td><td>8410</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jhansi</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>6450</td><td>8450</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jhansi</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7340</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Chandausi</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>8600</td><td>8760</td><td>8770</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Vilthararoad</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>8700</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Richha</td><td>Apple</td><td>Large</td><td>4650</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Richha</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>4665</td><td>4660</td><td>4695</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jalaun</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>6500</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jalaun</td><td>Apple</td><td>Small</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>5500</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Deoband</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>5500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sikanderabad</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>5200</td><td>&nbsp;</td><td>&nbsp;</td><td>5200</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Shahpur</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>1902</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ballia</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7180</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ballia</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8220</td><td>8440</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bareilly</td><td>Apple</td><td>Medium</td><td>&nbsp;</td><td>8500</td><td>8515</td><td>8750</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bareilly</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7425</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Baraut</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>8200</td><td>8850</td><td>9050</td><td>4000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kasganj</td><td>Kasmir/Shimla - II</td><td>Large</td><td>&nbsp;</td><td>8100</td><td>8560</td><td>8300</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Unnao</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>8650</td><td>9075</td><td>9000</td><td>7600</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Etah</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>8050</td><td>8465</td><td>8300</td><td>7280</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Raibareilly</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>8600</td><td>9050</td><td>9100</td><td>8450</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Muzzafarnagar</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>8800</td><td>8800</td><td>9000</td><td>5400</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Faizabad</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>7900</td><td>7995</td><td>&nbsp;</td><td>7500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Hardoi</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>9000</td><td>9060</td><td>&nbsp;</td><td>8040</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ghaziabad</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>8450</td><td>8850</td><td>9000</td><td>5500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Lalitpur</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>7220</td><td>9160</td><td>8660</td><td>6650</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Lucknow</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>8900</td><td>9050</td><td>&nbsp;</td><td>8350</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Saharanpur</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>7400</td><td>8800</td><td>8800</td><td>8800</td><td>5300</td><td>39.62</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bahraich</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>7600</td><td>9350</td><td>9200</td><td>6700</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sitapur</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>9000</td><td>9070</td><td>&nbsp;</td><td>8070</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Agra</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>7980</td><td>8300</td><td>&nbsp;</td><td>6850</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Allahabad</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>8800</td><td>9150</td><td>&nbsp;</td><td>7200</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Khaga</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>8540</td><td>9000</td><td>9090</td><td>7325</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Fatehpur</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8600</td><td>8950</td><td>9175</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Fatehpur</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7330</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Viswan</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>8630</td><td>9050</td><td>9120</td><td>&nbsp;</td><td>8100</td><td>6.54</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Maigalganj</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>8945</td><td>8960</td><td>9040</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bharuasumerpur</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>8275</td><td>8550</td><td>8900</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Karvi</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>695</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Purwa</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7750</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Thanabhavan</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>7000</td><td>7000</td><td>8000</td><td>8000</td><td>5120</td><td>36.72</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dadri</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>8300</td><td>8850</td><td>9000</td><td>5450</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Banda</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>7950</td><td>8420</td><td>9150</td><td>7000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bangarmau</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>8490</td><td>8600</td><td>9040</td><td>9060</td><td>7610</td><td>11.56</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Raath</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6900</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mauranipur</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>7500</td><td>8650</td><td>8620</td><td>8180</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Tulsipur</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>9150</td><td>9230</td><td>9220</td><td>9140</td><td>7250</td><td>26.21</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Charra</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7800</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Atarra</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>8400</td><td>9100</td><td>6900</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Madhoganj</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>8950</td><td>9050</td><td>9050</td><td>7950</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mehmoodabad</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>9010</td><td>9070</td><td>9070</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mehmoodabad</td><td>Golden</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>8060</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sandila</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>9080</td><td>8070</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Manjhanpur</td><td>Golden</td><td>Medium</td><td>&nbsp;</td><td>8690</td><td>9080</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bhinga</td><td>Kasmir/Shimla - II</td><td>Medium</td><td>&nbsp;</td><td>7600</td><td>9375</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Gopiganj</td><td>American</td><td>Medium</td><td>&nbsp;</td><td>8020</td><td>8230</td><td>&nbsp;</td><td>6970</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Khalilabad</td><td>Delicious</td><td>Medium</td><td>4900</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nawabganj</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>7800</td><td>9350</td><td>9200</td><td>7000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Rasda</td><td>American</td><td>Medium</td><td>&nbsp;</td><td>8250</td><td>8420</td><td>&nbsp;</td><td>7170</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Khandhla</td><td>Delicious</td><td>Medium</td><td>4550</td><td>4950</td><td>2450</td><td>&nbsp;</td><td>2150</td><td>111.63</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ahirora</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7100</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Achalda</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>7800</td><td>8300</td><td>&nbsp;</td><td>7100</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Buland Shahr</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8100</td><td>8000</td><td>&nbsp;</td><td>5400</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Shamli</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8740</td><td>8680</td><td>8950</td><td>5400</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pukharayan</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8610</td><td>8540</td><td>8020</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bijnaur</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6430</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Varanasi(F&V)</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Lakhimpur</td><td>Simla</td><td>Medium</td><td>&nbsp;</td><td>9020</td><td>9120</td><td>&nbsp;</td><td>7885</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Varanasi</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8000</td><td>8280</td><td>8400</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Shahjahanpur</td><td>Simla</td><td>Medium</td><td>&nbsp;</td><td>8560</td><td>8955</td><td>9000</td><td>7515</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Naanpara</td><td>Royal Delicious</td><td>Medium</td><td>&nbsp;</td><td>7500</td><td>9350</td><td>9200</td><td>6900</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Rudauli</td><td>Simla</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7750</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mahoba</td><td>Royal Delicious</td><td>Medium</td><td>&nbsp;</td><td>8200</td><td>8900</td><td>8830</td><td>6930</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Siyana</td><td>Red  Gold</td><td>Medium</td><td>&nbsp;</td><td>6800</td><td>6700</td><td>&nbsp;</td><td>4550</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jaunpur</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6700</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jaunpur</td><td>Red June</td><td>Medium</td><td>&nbsp;</td><td>7900</td><td>8000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Muradabad</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8600</td><td>8760</td><td>8750</td><td>6430</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pilibhit</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8480</td><td>8595</td><td>8990</td><td>7260</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mainpuri</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8080</td><td>8400</td><td>&nbsp;</td><td>6835</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Meerut</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8000</td><td>8300</td><td>&nbsp;</td><td>5440</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kanpur(Grain)</td><td>Delicious</td><td>Large</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>5600</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kanpur(Grain)</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8200</td><td>8200</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Gorakhpur</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8100</td><td>8300</td><td>&nbsp;</td><td>7260</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Etawah</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8200</td><td>8400</td><td>&nbsp;</td><td>6200</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Barabanki</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8200</td><td>8300</td><td>8550</td><td>7650</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Badayoun</td><td>Delicious</td><td>Medium</td><td>8160</td><td>8300</td><td>8600</td><td>8990</td><td>7000</td><td>16.57</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Farukhabad</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8550</td><td>9175</td><td>&nbsp;</td><td>6800</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Rampur</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8650</td><td>8750</td><td>8750</td><td>6440</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Gazipur</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>7950</td><td>8100</td><td>&nbsp;</td><td>7350</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mathura</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8200</td><td>8500</td><td>&nbsp;</td><td>6800</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Azamgarh</td><td>Delicious</td><td>Large</td><td>&nbsp;</td><td>8050</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Azamgarh</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>8400</td><td>&nbsp;</td><td>7075</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mirzapur</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8100</td><td>8265</td><td>&nbsp;</td><td>7025</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Basti</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8075</td><td>8330</td><td>8960</td><td>7240</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Pratapgarh</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8800</td><td>9150</td><td>9140</td><td>7500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Devariya</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8100</td><td>8350</td><td>&nbsp;</td><td>7270</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Gonda</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8600</td><td>8500</td><td>9300</td><td>6850</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sultanpur</td><td>Delicious</td><td>Medium</td><td>8100</td><td>8150</td><td>8250</td><td>&nbsp;</td><td>7525</td><td>7.64</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Firozabad</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8050</td><td>8425</td><td>8480</td><td>6860</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Amroha</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8650</td><td>8750</td><td>8740</td><td>6420</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Auraiya</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>7800</td><td>8620</td><td>&nbsp;</td><td>7150</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Chhibramau</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8400</td><td>8700</td><td>8850</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sambhal</td><td>Delicious</td><td>Medium</td><td>7500</td><td>8500</td><td>9000</td><td>9000</td><td>8500</td><td>-11.76</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Hasanpur</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>3520</td><td>3520</td><td>3520</td><td>3500</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mugrabaadshahpur</td><td>Delicious</td><td>Medium</td><td>7810</td><td>8980</td><td>8140</td><td>&nbsp;</td><td>7150</td><td>9.23</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sardhana</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>2400</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Anandnagar</td><td>Delicious</td><td>Medium</td><td>9500</td><td>9400</td><td>9000</td><td>&nbsp;</td><td>7140</td><td>33.05</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Shahganj</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>7450</td><td>8000</td><td>&nbsp;</td><td>7050</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jafarganj</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8200</td><td>8310</td><td>8660</td><td>7550</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nautnava</td><td>Delicious</td><td>Medium</td><td>8355</td><td>8355</td><td>8455</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Khair</td><td>Delicious</td><td>Large</td><td>12000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Safdarganj</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8300</td><td>&nbsp;</td><td>&nbsp;</td><td>7700</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Khurja</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>5400</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Ghiraur</td><td>Delicious</td><td>Medium</td><td>7750</td><td>8200</td><td>8570</td><td>8600</td><td>6775</td><td>14.39</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bindki</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8600</td><td>9000</td><td>9180</td><td>7400</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Sahiyapur</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>7800</td><td>9850</td><td>&nbsp;</td><td>7250</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Bharthna</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8250</td><td>8450</td><td>&nbsp;</td><td>6250</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kayamganj</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8350</td><td>8700</td><td>&nbsp;</td><td>6950</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Konch</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>8650</td><td>7150</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Vishalpur</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8300</td><td>8590</td><td>8970</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Tilhar</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8460</td><td>8500</td><td>8900</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Puranpur</td><td>Delicious</td><td>Medium</td><td>8300</td><td>8475</td><td>8597</td><td>8990</td><td>7255</td><td>14.4</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Vilaspur</td><td>Delicious</td><td>Medium</td><td>6500</td><td>6000</td><td>8000</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Naugarh</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8150</td><td>8550</td><td>&nbsp;</td><td>7250</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Golagokarnath</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>9010</td><td>9100</td><td>&nbsp;</td><td>7820</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Chandoli</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8000</td><td>8225</td><td>8400</td><td>7100</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Hapur</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8100</td><td>8750</td><td>&nbsp;</td><td>5480</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Akbarpur</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>7990</td><td>8400</td><td>&nbsp;</td><td>7560</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Balrampur</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6950</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Aligarh</td><td>Delicious</td><td>Medium</td><td>7850</td><td>8200</td><td>9000</td><td>8350</td><td>7700</td><td>1.95</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kannauj</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8400</td><td>8600</td><td>8800</td><td>6900</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Robertsganj</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>8535</td><td>7015</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kopaganj</td><td>Delicious</td><td>Medium</td><td>5100</td><td>5100</td><td>5500</td><td>&nbsp;</td><td>4100</td><td>24.39</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Orai</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8000</td><td>8500</td><td>8700</td><td>7000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Uttaripura</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8200</td><td>8600</td><td>&nbsp;</td><td>7100</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Rura</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7400</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dhanaura</td><td>Delicious</td><td>Medium</td><td>3200</td><td>&nbsp;</td><td>2800</td><td>&nbsp;</td><td>2800</td><td>14.29</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Wazirganj</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7220</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Fatehpur Sikri</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>8820</td><td>&nbsp;</td><td>6820</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Kairana</td><td>Delicious</td><td>Medium</td><td>2350</td><td>2450</td><td>2450</td><td>2350</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Nagina</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>12000</td><td>10000</td><td>9000</td><td>7000</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mohammdi</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>9015</td><td>9110</td><td>&nbsp;</td><td>7875</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Tikonia</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>9040</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Dankaur</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>8875</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Mawana</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>5430</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Jahangirabad</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8100</td><td>8800</td><td>9000</td><td>5440</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Noida</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8350</td><td>8860</td><td>9000</td><td>5450</td><td>-</td>
+	</tr><tr align="right" valign="middle" style="color:Black;width:150px;">
+		<td>Tamkuhi road</td><td>Delicious</td><td>Medium</td><td>&nbsp;</td><td>8675</td><td>8280</td><td>&nbsp;</td><td>&nbsp;</td><td>-</td>
+	</tr>
+</table>
+                        <br />
+                        *Report Generation: As per the data reported by APMCs
+</div>

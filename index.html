@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AgriAssist</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <link href="styles.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen bg-gradient-to-b from-green-100 to-green-200 font-sans flex flex-col">
+    <div id="animation-overlay" class="fixed inset-0 bg-green-600 z-50 flex items-center justify-center">
+        <h1 id="animation-text" class="text-white text-6xl font-bold tracking-wider">AgriAssist</h1>
+    </div>
+    <nav class="bg-green-700 dark:bg-gray-800 text-white p-4 shadow-md fixed w-full z-50">
+        <div class="container mx-auto flex justify-between items-center">
+            <a href="#" class="text-2xl font-bold">AgriAssist</a>
+            <div class="flex items-center space-x-6">
+                <ul class="flex space-x-6">
+                    <li><a href="#home" class="hover:text-green-200 transition-colors duration-300">Home</a></li>
+                    <li><a href="#market-data" class="hover:text-green-200 transition-colors duration-300">Market Data</a></li>
+                    <li><a href="#weather" class="hover:text-green-200 transition-colors duration-300">Weather</a></li>
+                    <li><a href="#expert-advice" class="hover:text-green-200 transition-colors duration-300">Expert Advice</a></li>
+                    <li><a href="#contact" class="hover:text-green-200 transition-colors duration-300">Contact</a></li>
+                </ul>
+                <button id="dark-mode-toggle" class="text-white hover:text-green-200 transition-colors duration-300">
+                    <i data-lucide="moon" class="w-6 h-6"></i>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <header id="home" class="bg-gradient-to-r from-green-600 to-green-700 dark:from-gray-700 dark:to-gray-800 text-white p-6 text-center shadow-lg mt-16">
+        <h1 class="text-4xl font-bold fade-in">AgriAssist</h1>
+        <p class="text-lg fade-in">Empowering Farmers with Real-time Information</p>
+    </header>
+
+    <main class="container mx-auto p-6 space-y-8 flex-grow">
+    <section id="welcome" class="bg-gradient-to-r from-green-500 to-green-600 dark:from-gray-600 dark:to-gray-700 text-white p-8 rounded-lg shadow-md fade-in">
+        <h2 class="text-3xl font-bold mb-4">Welcome to AgriAssist</h2>
+        <p class="text-lg mb-6">Get real-time market data, accurate weather forecasts, and expert agricultural advice all in one place!</p>
+        <button class="bg-white text-green-600 dark:bg-gray-800 dark:text-green-400 px-6 py-2 rounded-lg font-semibold hover:bg-green-100 dark:hover:bg-gray-700 transition-all duration-300 ease-in-out transform hover:scale-105">
+            Get Started
+        </button>
+    </section>
+    
+        <section id="market-data" class="bg-white rounded-lg shadow-md overflow-hidden fade-in">
+        <div class="bg-white rounded-lg shadow-md overflow-hidden">
+            <div class="p-6">
+                <h2 class="text-2xl font-bold text-green-700 mb-4">Market Data</h2>
+                <label for="market-select" class="block text-sm font-medium text-gray-700 mb-2">Select Crop:</label>
+                <select id="market-select" class="block w-full px-3 py-2 bg-white border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-green-500 focus:border-green-500">
+                    <option value="apple">Apple</option>
+                    <option value="banana">Banana</option>
+                    <option value="bengal_gram">Bengal Gram (Gram) (Whole)</option>
+                    <option value="black_gram">Black Gram (Urd Beans) (Whole)</option>
+                    <option value="chili_red">Chili Red</option>
+                    <option value="cotton">Cotton</option>
+                    <option value="garlic">Garlic</option>
+                    <option value="ginger_dry">Ginger (Dry)</option>
+                    <option value="grapes">Grapes</option>
+                    <option value="green_gram">Green Gram (Moong) (Whole)</option>
+                    <option value="groundnut">Groundnut</option>
+                    <option value="jowar">Jowar (Sorghum)</option>
+                    <option value="jute">Jute</option>
+                    <option value="maize">Maize</option>
+                    <option value="mango">Mango</option>
+                    <option value="mustard">Mustard</option>
+                    <option value="onion">Onion</option>
+                    <option value="orange">Orange</option>
+                    <option value="paddy">Paddy (Dhan) (Common)</option>
+                    <option value="pineapple">Pineapple</option>
+                    <option value="potato">Potato</option>
+                    <option value="red_gram">Red Gram</option>
+                    <option value="rice">Rice</option>
+                    <option value="sesamum">Sesamum (Sesame, Gingelly, Til)</option>
+                    <option value="soyabean">Soyabean</option>
+                    <option value="sunflower">Sunflower</option>
+                    <option value="wheat">Wheat</option>
+                </select>
+                <button id="market-submit" class="mt-4 bg-green-600 hover:bg-green-700 text-white px-6 py-2 rounded-lg font-semibold transition-all duration-300 ease-in-out transform hover:scale-105">
+                    Submit
+                </button>
+            </div>
+        </div>
+        </section>
+
+            <div class="bg-white rounded-lg shadow-md overflow-hidden">
+                <div class="p-6">
+                    <h2 class="text-2xl font-bold text-green-700 mb-4">Government Policies</h2>
+                    <p class="text-gray-700 mb-4">Stay updated on the latest government schemes and policies aimed at supporting farmers.</p>
+                    <div id="policy-content" class="space-y-2"></div>
+                    <div id="policy-loading" class="text-center py-8 hidden">
+                        <i data-lucide="loader" class="w-8 h-8 mx-auto animate-spin text-green-600"></i>
+                        <p class="mt-2 text-gray-600">Loading policies...</p>
+                    </div>
+                </div>
+            </div>
+
+        <section id="weather" class="bg-white rounded-lg shadow-md overflow-hidden fade-in"></section>
+        <div class="bg-white rounded-lg shadow-md overflow-hidden">
+            <div class="p-6">
+                <h2 class="text-2xl font-bold text-green-700 mb-4">Weather Forecast</h2>
+                <div class="mb-4">
+                    <label for="location-select" class="block text-sm font-medium text-gray-700 mb-2">Select Location:</label>
+                    <select id="location-select" class="block w-full px-3 py-2 bg-white border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-green-500 focus:border-green-500">
+                        <option value="Delhi">Delhi</option>
+                        <option value="Mumbai">Mumbai</option>
+                        <option value="Kolkata">Kolkata</option>
+                        <option value="Chennai">Chennai</option>
+                        <option value="Bangalore">Bangalore</option>
+                    </select>
+                </div>
+                <div id="weather-content" class="hidden">
+                    <div id="current-weather" class="mb-6 p-4 bg-blue-100 rounded-lg">
+                        <h3 class="text-xl font-semibold text-blue-800 mb-2">Current Weather</h3>
+                        <div class="flex items-center mb-2">
+                            <i id="current-weather-icon" data-lucide="sun" class="w-10 h-10 mr-4"></i>
+                            <div>
+                                <p id="current-temp" class="text-2xl font-bold text-gray-800"></p>
+                                <p id="current-description" class="text-gray-600"></p>
+                            </div>
+                        </div>
+                        <div class="grid grid-cols-2 gap-4">
+                            <div>
+                                <p class="text-sm text-gray-600">High: <span id="current-high" class="font-semibold"></span></p>
+                                <p class="text-sm text-gray-600">Low: <span id="current-low" class="font-semibold"></span></p>
+                            </div>
+                            <div>
+                                <p class="text-sm text-gray-600">Humidity: <span id="current-humidity" class="font-semibold"></span></p>
+                                <p class="text-sm text-gray-600">Chance of Rain: <span id="current-rain-chance" class="font-semibold"></span></p>
+                            </div>
+                        </div>
+                    </div>
+                    <h3 class="text-xl font-semibold text-green-700 mb-2">5-Day Forecast</h3>
+                    <div id="weather-forecast" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-4"></div>
+                    <h3 class="text-xl font-semibold text-green-700 mb-2">Hourly Forecast</h3>
+                    <div id="hourly-forecast" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-4"></div>
+                </div>
+                <div id="weather-loading" class="text-center py-8">
+                    <i data-lucide="loader" class="w-8 h-8 mx-auto animate-spin text-green-600"></i>
+                    <p class="mt-2 text-gray-600">Loading weather data...</p>
+                </div>
+            </div>
+        </div>
+        </section>
+
+        <section id="expert-advice" class="bg-white rounded-lg shadow-md overflow-hidden fade-in"></section>
+        <div class="bg-white rounded-lg shadow-md overflow-hidden">
+            <div class="p-6">
+                <h2 class="text-2xl font-bold text-green-700 mb-4">Expert Agricultural Advice</h2>
+                <p class="text-lg text-gray-700 mb-4">Ask an expert about farming techniques, crop management, or any agricultural query.</p>
+                <div class="mb-4">
+                    <input id="expert-query" type="text" placeholder="Type your question here" class="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-green-500 focus:border-green-500" />
+                </div>
+                <button id="ask-expert-btn" class="w-full sm:w-auto px-6 py-2 font-semibold bg-green-600 hover:bg-green-700 text-white rounded-lg transition-all duration-300 ease-in-out transform hover:scale-105">
+                    Ask an Expert
+                </button>
+                <div id="expert-response" class="mt-4 text-lg text-gray-700"></div>
+                <div id="expert-loading" class="hidden text-center py-8">
+                    <i data-lucide="loader" class="w-8 h-8 mx-auto animate-spin text-green-600"></i>
+                    <p class="mt-2 text-gray-600">Fetching expert advice...</p>
+                </div>
+            </div>
+        </div>
+        </section>
+    </main>
+
+    <footer id="contact" class="bg-green-800 text-white py-8 fade-in">
+        <div class="container mx-auto px-4">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <div>
+                    <h3 class="text-xl font-semibold mb-4">About AgriAssist</h3>
+                    <p class="text-sm">Empowering farmers with real-time information, market insights, and expert advice to enhance agricultural productivity.</p>
+                </div>
+                <div>
+                    <h3 class="text-xl font-semibold mb-4">Quick Links</h3>
+                    <ul class="space-y-2">
+                        <li><a href="#" class="text-sm hover:text-green-300 transition-colors duration-300">Home</a></li>
+                        <li><a href="#" class="text-sm hover:text-green-300 transition-colors duration-300">Market Data</a></li>
+                        <li><a href="#" class="text-sm hover:text-green-300 transition-colors duration-300">Weather Forecast</a></li>
+                        <li><a href="#" class="text-sm hover:text-green-300 transition-colors duration-300">Expert Advice</a></li>
+                        <li><a href="#" class="text-sm hover:text-green-300 transition-colors duration-300">Contact Us</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h3 class="text-xl font-semibold mb-4">Connect With Us</h3>
+                    <div class="flex space-x-4">
+                        <a href="#" class="text-white hover:text-green-300 transition-colors duration-300">
+                            <i data-lucide="facebook" class="w-6 h-6"></i>
+                        </a>
+                        <a href="#" class="text-white hover:text-green-300 transition-colors duration-300">
+                            <i data-lucide="twitter" class="w-6 h-6"></i>
+                        </a>
+                        <a href="#" class="text-white hover:text-green-300 transition-colors duration-300">
+                            <i data-lucide="instagram" class="w-6 h-6"></i>
+                        </a>
+                        <a href="#" class="text-white hover:text-green-300 transition-colors duration-300">
+                            <i data-lucide="linkedin" class="w-6 h-6"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="mt-8 pt-8 border-t border-green-700 text-center">
+                <p>&copy; 2024 AgriAssist | All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
