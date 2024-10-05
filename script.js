@@ -135,7 +135,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const locationSelect = document.getElementById('location-select');
         const weatherContent = document.getElementById('weather-content');
         const weatherLoading = document.getElementById('weather-loading');
-        const weatherApiKey = '9d7cde1f6d07ec55650544be1631307e';
+        const weatherApiKey = 'XXXXXXXXXXXXXXXXXXXXXXXXX'; //Add your own api key here
 
         if (locationSelect) {
             locationSelect.addEventListener('change', function() {
