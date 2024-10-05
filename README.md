@@ -1,6 +1,6 @@
-# AgriAssist
+# AgroAssist
 
-AgriAssist is a web application designed to empower farmers by providing real-time market data, accurate weather forecasts, and expert agricultural advice all in one place. It helps farmers make informed decisions to increase agricultural productivity.
+AgroAssist is a web application designed to empower farmers by providing real-time market data, accurate weather forecasts, and expert agricultural advice all in one place. It helps farmers make informed decisions to increase agricultural productivity.
 
 ## Features
 
@@ -12,7 +12,7 @@ AgriAssist is a web application designed to empower farmers by providing real-ti
 
 ## Tech Stack
 
-- **Frontend**: HTML, CSS (Tailwind), JavaScript
+- **Frontend**: HTML, CSS , JavaScript
 - **Weather API**: OpenWeatherMap API for weather data.
 - **Icons**: Lucide Icons for UI enhancements.
 - **Responsive Design**: Designed to work seamlessly on both desktop and mobile devices.
@@ -21,12 +21,12 @@ AgriAssist is a web application designed to empower farmers by providing real-ti
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/agriassist.git
+   [git clone https://github.com/your-username/agriassist.git](https://github.com/adi-S28/Agro-Assist.git)
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd agriassist
+   cd agroassist
    ```
 
 3. Open `index.html` in a browser to view the application.
