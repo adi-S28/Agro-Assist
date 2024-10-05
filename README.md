@@ -21,7 +21,7 @@ AgroAssist is a web application designed to empower farmers by providing real-ti
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/your-username/agriassist.git](https://github.com/adi-S28/Agro-Assist.git)
+   [git clone https://github.com/your-username/agriassist.git]
    ```
 
 2. Navigate to the project directory:
